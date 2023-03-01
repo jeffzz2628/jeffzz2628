@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
-<!---
-jeffzz2628/jeffzz2628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Notion - https://www.notion.so/076edb5dd4ac4a2d92f7c42927b325de?pvs=4
