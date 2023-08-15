@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ChaeHug Son
-- 👀 I’m interested in Soccer
-- 🌱 I’m currently learning Diverse Algorithms
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+Hi its ChaeHug here
+Hoping to be a versatile frontend engineer
 
-Notion - https://www.notion.so/076edb5dd4ac4a2d92f7c42927b325de?pvs=4
+STACK 
+Python, React, Figma (studing)
+
+RESUME
+https://thrilling-ellipse-2a2.notion.site/e81be245079547288378139b652d3993
