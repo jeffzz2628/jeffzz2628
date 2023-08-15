@@ -1,4 +1,5 @@
-# Hi its ChaeHug here Hoping to be a versatile frontend engineer
+# Hi its ChaeHug here 
+Hoping to be a versatile frontend engineer :D
 
 # STACK
 Python, React, Figma (studing)
